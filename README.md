@@ -41,10 +41,10 @@ Regression equation: y = 2.5x + 3.7 (R² = 0.85).
 
   🛠️ Tools and Libraries
   
--Programming Language: Python
+- Programming Language: Python
 Libraries:
--NumPy and Pandas: For data manipulation
--SciPy: For statistical tests
--Statsmodels: For hypothesis testing and regression
--Matplotlib and Seaborn: For data visualization
+- NumPy and Pandas: For data manipulation
+- SciPy: For statistical tests
+- Statsmodels: For hypothesis testing and regression
+- Matplotlib and Seaborn: For data visualization
 
