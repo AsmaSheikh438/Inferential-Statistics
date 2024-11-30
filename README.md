@@ -24,5 +24,27 @@ This repository is dedicated to **Inferential Statistics**, a key branch of stat
    - z-test and t-test (for means)  
    - Chi-square test (for categorical data)  
      
+📊 Examples of Inferential Statistics
+Confidence Interval Calculation
+The 95% confidence interval for the mean is (48.5, 51.3).
 
+Hypothesis Testing
+p-value = 0.03, significance level = 0.05. Conclusion: Reject the null hypothesis.
+
+Regression Analysis
+Regression equation: y = 2.5x + 3.7 (R² = 0.85).
+
+🌟 Why Learn Inferential Statistics?
+- Make data-driven decisions by generalizing sample findings to a larger population.
+- Test hypotheses and validate assumptions.
+- Build a foundation for advanced analytics, machine learning, and predictive modeling.
+
+  🛠️ Tools and Libraries
+  
+-Programming Language: Python
+Libraries:
+-NumPy and Pandas: For data manipulation
+-SciPy: For statistical tests
+-Statsmodels: For hypothesis testing and regression
+-Matplotlib and Seaborn: For data visualization
 
