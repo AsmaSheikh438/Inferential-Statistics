@@ -23,12 +23,6 @@ This repository is dedicated to **Inferential Statistics**, a key branch of stat
 4. **Common Statistical Tests**  
    - z-test and t-test (for means)  
    - Chi-square test (for categorical data)  
-   - ANOVA (for comparing means across multiple groups)  
-
-5. **Correlation and Regression**  
-   - Pearson’s correlation coefficient  
-   - Simple and multiple linear regression  
-
----
+     
 
 
